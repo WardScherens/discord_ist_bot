@@ -1,1 +1,3 @@
-# discord_ist_bot
+# Discord Bot: IST?
+
+Zelfgemaakte discord bot 
